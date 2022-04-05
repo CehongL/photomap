@@ -1,7 +1,8 @@
 # Photomap
-A Leaflet map that reads data from Google Sheets.  
+A map of interesting locations in Cape Town, South Africa.
+<https://cehongl.github.io/photomap>
 
-Created as an example for [GEOG 4046](<https://cehongl.github.io/photomap>).  
+A Leaflet map from Google Sheets
 
 Each row in the sheet will appear as a marker on the map. When the marker is clicked, a popup will appear showing information about the location, taken from the columns of the spreadsheet.  
 
